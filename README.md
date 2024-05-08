@@ -46,8 +46,4 @@ This project aims to bring classic Atari games back to life with a modern twist,
 - `stage.pde`: Manages game states and transitions.
 - `ui.pde`: User interface elements.
 
-## Acknowledgements
-- Processing Foundation
-- Flip-dot display manufacturers
-- The open-source community for libraries and inspiration
 """
