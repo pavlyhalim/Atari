@@ -45,5 +45,3 @@ This project aims to bring classic Atari games back to life with a modern twist,
 - `config.pde`: Configuration settings for serial ports and flip-dot panels.
 - `stage.pde`: Manages game states and transitions.
 - `ui.pde`: User interface elements.
-
-"""
